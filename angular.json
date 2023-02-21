@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lifeCycle"
+    }
+  },
+  "defaultProject": "lifeCycle",
+  "cli": {
+    "analytics": "1044c0b9-372c-49b3-9217-96a3b692a354"
+  }
 }
